@@ -1,5 +1,6 @@
 # icecream
 
+template html : https://github.com/SrikarKSV/Lush-Gelato
 to running:
 
 - open your terminal

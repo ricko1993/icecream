@@ -1,1 +1,1 @@
-web: gunicorn crudtutorial.wsgi
+web: gunicorn icecream.wsgi
